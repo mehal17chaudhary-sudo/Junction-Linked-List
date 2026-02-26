@@ -1,1 +1,1 @@
-from .JLI import *
+from .jli import *
