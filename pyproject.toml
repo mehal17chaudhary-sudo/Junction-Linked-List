@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "junction-linked-list"
+version = "0.1.0"
+description = "Junction Linked List (JLI) - segmented structural data structure"
+authors = [{name="Mehal Chaudhary"}]
+license = {text = "AGPL-3.0"}
+readme = "README.md"
+requires-python = ">=3.9"
+
+[tool.setuptools]
+package-dir = {"" = "JLI/src"}
+
+[tool.setuptools.packages.find]
+where = ["JLI/src"]
