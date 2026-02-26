@@ -3,7 +3,7 @@ requires = ["setuptools>=61"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "junction-linked-list"
+name = "jli"
 version = "0.1.0"
 description = "Junction Linked List (JLI) - segmented structural data structure"
 authors = [{name="Mehal Chaudhary"}]
