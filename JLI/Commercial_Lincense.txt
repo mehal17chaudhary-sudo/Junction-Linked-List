@@ -1,0 +1,16 @@
+# Junction Linked List (JLI) / Anna Mani Junction List (AMJ List)
+
+JLI is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
+
+You are free to use, study, modify, and benchmark JLI.
+
+If you distribute a modified version of JLI, or use it to provide a
+network service (e.g., SaaS), you must make the corresponding source
+code available under the terms of the AGPL-3.0.
+
+## Commercial Licensing
+
+Organizations that wish to use JLI in proprietary or closed-source
+systems may obtain a commercial license.
+
+For inquiries: mehalchaudhary1407@gmail.com
