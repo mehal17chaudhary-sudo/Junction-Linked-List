@@ -29,13 +29,6 @@ jobs:
 
       - name: Build
         run: python -m build
-   
-      - name: Upload to Release
-        uses: softprops/action-gh-release@v2
-        with:
-          files: dist/*.whl
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish to PyPI
         uses: pypa/gh-action-pypi-publish@release/v1
